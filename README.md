@@ -26,6 +26,7 @@ Download and build Flink
     $ cd flink
     $ mvn clean package -DskipTests # this will take up to 10 minutes
     $ cd build-target               # this is where Flink is installed to
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/QOdW1OuZ1U0?list=PLol_ykYs3OQ4Zypr1WGaYcSowzoMmcj4G" frameborder="0" allowfullscreen></iframe>
     
 
