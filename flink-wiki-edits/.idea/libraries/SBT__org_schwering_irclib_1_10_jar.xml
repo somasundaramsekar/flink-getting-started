@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.schwering:irclib:1.10:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.schwering/irclib/jars/irclib-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.schwering/irclib/srcs/irclib-1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

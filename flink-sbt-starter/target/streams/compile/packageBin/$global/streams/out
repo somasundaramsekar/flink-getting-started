@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\flink-sbt-starter_2.11-0.1-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount.class[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$$anon$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$$anon$2.class[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$WordWithCount.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$WordWithCount.class[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$$anon$2$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$$anon$2$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$WordWithCount$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$WordWithCount$.class[0m
+[0m[[0mdebug[0m] [0m	com\ta[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta[0m
+[0m[[0mdebug[0m] [0m	com\ta\SocketWindowWordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com\ta\SocketWindowWordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  C:\Soma\learning\flink\workspace\flink-sbt-starter\target\scala-2.11\classes\com[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
